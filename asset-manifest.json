@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/social-media-app/static/css/main.35deec75.chunk.css",
+    "main.js": "/social-media-app/static/js/main.25c5bb02.chunk.js",
+    "main.js.map": "/social-media-app/static/js/main.25c5bb02.chunk.js.map",
+    "runtime-main.js": "/social-media-app/static/js/runtime-main.ea20c69b.js",
+    "runtime-main.js.map": "/social-media-app/static/js/runtime-main.ea20c69b.js.map",
+    "static/js/2.f51f321f.chunk.js": "/social-media-app/static/js/2.f51f321f.chunk.js",
+    "static/js/2.f51f321f.chunk.js.map": "/social-media-app/static/js/2.f51f321f.chunk.js.map",
+    "static/js/3.9f2c9a68.chunk.js": "/social-media-app/static/js/3.9f2c9a68.chunk.js",
+    "static/js/3.9f2c9a68.chunk.js.map": "/social-media-app/static/js/3.9f2c9a68.chunk.js.map",
+    "index.html": "/social-media-app/index.html",
+    "static/css/main.35deec75.chunk.css.map": "/social-media-app/static/css/main.35deec75.chunk.css.map",
+    "static/js/2.f51f321f.chunk.js.LICENSE.txt": "/social-media-app/static/js/2.f51f321f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/social-media-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea20c69b.js",
+    "static/js/2.f51f321f.chunk.js",
+    "static/css/main.35deec75.chunk.css",
+    "static/js/main.25c5bb02.chunk.js"
+  ]
+}
